@@ -8,7 +8,7 @@
   4. Save, load, import/export pipelines — Pipelines persist locally and can be exported as JSON files
   5. Schedule pipelines — A scheduler page lets users configure recurring execution via Snowflake Tasks
 
-(![alt text](https://github.com/sfc-gh-pneedleman/snowflake-etl-builder/blob/main/public/code_workflow.png))
+![alt text](https://github.com/sfc-gh-pneedleman/snowflake-etl-builder/blob/main/public/code_workflow.png)
 ---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
