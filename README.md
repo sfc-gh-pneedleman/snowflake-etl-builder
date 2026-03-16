@@ -1,5 +1,5 @@
 
-#Buit with Snowflake Sortex Code
+#Buit with Snowflake Cortex Code 
 * Snowflake ETL Builder is a visual, no-code/low-code web application that lets users:
 
   1. Design data pipelines visually — Drag-and-drop ETL nodes (sources, transformations, destinations) onto a canvas and connect them to build Snowflake data workflows
